@@ -6,7 +6,9 @@
 Here are some ideas to get you started: -->
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif">
+  <img width="500" src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif">
+  
+  
 </p>
 
 - 🔭 I’m currently working on getting better
