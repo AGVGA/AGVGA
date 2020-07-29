@@ -22,6 +22,8 @@ Here are some ideas to get you started: -->
 - 😋 Favorite Youtube Channel : Binging with Babish [**Youtube Channel**](https://www.youtube.com/c/bingingwithbabish)
 - ⚡ Fun fact: I watch Mark Rober videos for mental relaxation [**Youtube Channel**](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
 
+![Profile views counter](https://github.com/Aditya-Ayyagari/github-profile-view-counter.svg)
+
 <br>
 <br>
 <br>
