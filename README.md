@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started: -->
 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/3og0IHyZMxZNkNOWT6/giphy.gif">
+</p>
+
 - 🔭 I’m currently working on getting better
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about amazing movies to watch
@@ -15,5 +19,6 @@ Here are some ideas to get you started: -->
 - 😋 Favorite Youtube Channel : Binging with Babish [Youtube Channel](https://www.youtube.com/c/bingingwithbabish)
 - ⚡ Fun fact: I watch Mark Rober videos for mental relaxation [Youtube Channel](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
 
-
-<align : center>![Welcome](https://media.giphy.com/media/3og0IHyZMxZNkNOWT6/giphy.gif)
+<p align="center">
+Check out my repos ⬇️  
+</p>
