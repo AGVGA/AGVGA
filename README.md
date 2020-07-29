@@ -19,8 +19,8 @@ Here are some ideas to get you started: -->
 - 🎮 Favorite Game : Red Dead Redemption 2
 - 💥 Favorite Author : Yuval Noah Harari
 - 🗽 Favorite City : New York
-- 😋 Favorite Youtube Channel : Binging with Babish [**YouTube Channel**](https://www.youtube.com/c/bingingwithbabish)
-- ⚡ Fun fact: I watch Mark Rober videos for mental relaxation [**YouTube Channel**](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
+- 😋 Favorite Youtube Channel : Binging with Babish -  [**YouTube Channel**](https://www.youtube.com/c/bingingwithbabish)
+- ⚡ Fun fact: At midnight, you can find me watching Mark Rober Videos -  [**YouTube Channel**](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
 
 
 <br>
