@@ -5,7 +5,8 @@
 </p>
 
 <br>
-![](https://komarev.com/ghpvc/?username=Aditya-Ayyagari&color=red&style=plastic)
+
+![](https://komarev.com/ghpvc/?username=Aditya-Ayyagari&color=red)
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
