@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 - 💥 Favorite Author : Yuval Noah Harari
 - 🗽 Favorite City : New York
 - 😋 Favorite Youtube Channel : Binging with Babish -  [**YouTube Channel**](https://www.youtube.com/c/bingingwithbabish)
-- ⚡ Fun fact : At midnight, you can find me watching Mark Rober Videos -  [**YouTube Channel**](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
+- ⚡ Fun fact : At midnight, you can catch me watching inventions of Mark Rober -  [**YouTube Channel**](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
 
 
 <br>
