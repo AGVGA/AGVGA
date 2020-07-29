@@ -15,12 +15,12 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on getting better at life
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about amazing movies to watch
-- 📫 How to reach me: [**LinkedIn Account**](https://www.linkedin.com/in/aditya2000)
+- 📫 How to reach me : [**LinkedIn Account**](https://www.linkedin.com/in/aditya2000)
 - 🎮 Favorite Game : Red Dead Redemption 2
 - 💥 Favorite Author : Yuval Noah Harari
 - 🗽 Favorite City : New York
 - 😋 Favorite Youtube Channel : Binging with Babish -  [**YouTube Channel**](https://www.youtube.com/c/bingingwithbabish)
-- ⚡ Fun fact: At midnight, you can find me watching Mark Rober Videos -  [**YouTube Channel**](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
+- ⚡ Fun fact : At midnight, you can find me watching Mark Rober Videos -  [**YouTube Channel**](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
 
 
 <br>
