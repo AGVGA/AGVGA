@@ -1,4 +1,4 @@
-### Hi I am Aditya 😄
+### I am Aditya 😄
 
 <!--
 **Aditya-Ayyagari/Aditya-Ayyagari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 
 ### Get to know me : 
 
-- 🔭 I’m currently working on getting better
+- 🔭 I’m currently working on getting better at life
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about amazing movies to watch
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/aditya2000)
