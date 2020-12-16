@@ -1,12 +1,15 @@
 ### I am Aditya 😄
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif">  
+  <!--
+  <img width="500" src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif">
+  -->
+   <img width="500" src="https://media.giphy.com/media/RnPRNP5ICPl6M/giphy.gif">
 </p>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Aditya-Ayyagari&color=red)
+![](https://komarev.com/ghpvc/?username=AGVGA&color=red)
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -27,11 +30,13 @@
 <br>
 <br>
 <br>
+
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
 <br>
+
 <p align="center">
 Check out my repos ⬇️  
 </p>
