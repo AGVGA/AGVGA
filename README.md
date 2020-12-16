@@ -2,8 +2,9 @@
 
 <p align="center">
   <!--
-  <img width="500" src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif">
-  <img width="500" height="300" src="https://media.giphy.com/media/uK6bou9U4l2Sc/giphy.gif">
+  Jimmy Fallon <img width="500" src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif">
+  Leonardo DiCaprio <img width="500" height="300" src="https://media.giphy.com/media/uK6bou9U4l2Sc/giphy.gif">
+  Will Smith 
   -->
    <img width="500" src="https://media.giphy.com/media/wRc3lYsawNj20/giphy.gif">
 </p>
