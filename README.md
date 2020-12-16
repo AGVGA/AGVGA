@@ -22,7 +22,7 @@
 - 💥 Favorite Author : Yuval Noah Harari
 - 🗽 Favorite City : New York
 - 😋 Favorite YouTube Channel : Binging with Babish -  [**YouTube Channel**](https://www.youtube.com/c/bingingwithbabish)
-- ⚡ Fun fact : At midnight, you can catch me watching inventions of Mark Rober -  [**YouTube Channel**](https://www.youtube.com/markrober)
+- ⚡ Fun fact : At midnight, you can catch me watching Kurzgesagt – In a Nutshell videos. -  [**YouTube Channel**](https://www.youtube.com/c/inanutshell)
 
 <br>
 <br>
