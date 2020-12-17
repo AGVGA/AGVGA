@@ -5,11 +5,11 @@
   Jimmy Fallon <img width="500" src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif">
   Leonardo DiCaprio <img width="500" height="300" src="https://media.giphy.com/media/uK6bou9U4l2Sc/giphy.gif">
   Will Smith <img width="500" src="https://media.giphy.com/media/wRc3lYsawNj20/giphy.gif">
-  The Marvelous Mrs. Maisel Spot <img width="500" src="https://media.giphy.com/media/f4O2UrO5w1BCsy9EX6/giphy.gif">
+  The Marvelous Mrs. Maisel MySpot <img width="500" src="https://media.giphy.com/media/f4O2UrO5w1BCsy9EX6/giphy.gif">
   The Marvelous Mrs. Maisel Hello <img width="500" src="https://media.giphy.com/media/J1Ey6XGUA05o6S3Uco/giphy.gif">
   The Marvelous Mrs. Maisel <img width="500" src="https://media.giphy.com/media/llDZ69jJuuBpB5Zblm/giphy.gif">
   -->
-   <img width="500" src="https://media.giphy.com/media/llDZ69jJuuBpB5Zblm/giphy.gif">
+   <img width="500" src="https://media.giphy.com/media/J1Ey6XGUA05o6S3Uco/giphy.gif">
 </p>
 
 <br>
