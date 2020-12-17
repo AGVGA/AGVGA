@@ -8,8 +8,9 @@
   The Marvelous Mrs. Maisel MySpot <img width="500" src="https://media.giphy.com/media/f4O2UrO5w1BCsy9EX6/giphy.gif">
   The Marvelous Mrs. Maisel Hello <img width="500" src="https://media.giphy.com/media/J1Ey6XGUA05o6S3Uco/giphy.gif">
   The Marvelous Mrs. Maisel <img width="500" src="https://media.giphy.com/media/llDZ69jJuuBpB5Zblm/giphy.gif">
+  Adam Sandler <img width="500" src="https://media.giphy.com/media/Xbn4I3lPUqLP5ZepV1/giphy.gif">
   -->
-   <img width="500" src="https://media.giphy.com/media/J1Ey6XGUA05o6S3Uco/giphy.gif">
+   <img width="500" src="https://media.giphy.com/media/Xbn4I3lPUqLP5ZepV1/giphy.gif">
 </p>
 
 <br>
