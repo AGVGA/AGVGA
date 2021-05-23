@@ -1,4 +1,4 @@
-### I am Aditya 😄
+### Hi, I am Aditya 😄
 
 <p align="center">
   <!--
@@ -29,9 +29,9 @@
 - 📫 How to reach me : [**LinkedIn Account**](https://www.linkedin.com/in/aditya2000)
 - 🎮 Favorite Game : Red Dead Redemption 2
 - 💥 Favorite Author : Yuval Noah Harari
-- 🗽 Favorite City : New York
-- 😋 Favorite YouTube Channel : Binging with Babish -  [**YouTube Channel**](https://www.youtube.com/c/bingingwithbabish)
-- ⚡ Fun fact : At midnight, you can catch me watching videos of Kurzgesagt – In a Nutshell -  [**YouTube Channel**](https://www.youtube.com/c/inanutshell)
+- 🗽 Favorite City : New York City
+- 😋 Favorite YouTube Channel : [**Binging with Babish**](https://www.youtube.com/c/bingingwithbabish)
+- ⚡ Fun fact : At midnight, you can catch me watching videos of [**Kurzgesagt – In a Nutshell**](https://www.youtube.com/c/inanutshell)
 
 <br>
 <br>
