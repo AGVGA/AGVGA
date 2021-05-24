@@ -30,7 +30,7 @@
 - 🎮 Favorite Game : Red Dead Redemption 2
 - 💥 Favorite Author : Yuval Noah Harari
 - 🗽 Favorite City : New York City
-- 😋 Favorite YouTube Channel : [**Binging with Babish**](https://www.youtube.com/c/bingingwithbabish)
+- 😋 Favorite YouTube Channel : [**Babish Culinary Universe**](https://www.youtube.com/user/bgfilms)
 - ⚡ Fun fact : At midnight, you can catch me watching videos of [**Kurzgesagt – In a Nutshell**](https://www.youtube.com/c/inanutshell)
 
 <br>
