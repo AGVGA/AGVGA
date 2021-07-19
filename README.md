@@ -10,7 +10,7 @@
   The Marvelous Mrs. Maisel <img width="500" src="https://media.giphy.com/media/llDZ69jJuuBpB5Zblm/giphy.gif">
   Adam Sandler <img width="500" src="https://media.giphy.com/media/Xbn4I3lPUqLP5ZepV1/giphy.gif">
   -->
-   <img width="500" height="300" src="https://media.giphy.com/media/uK6bou9U4l2Sc/giphy.gif">
+   <img width="500" src="https://media.giphy.com/media/llDZ69jJuuBpB5Zblm/giphy.gif">
 </p>
 
 <br>
@@ -24,7 +24,7 @@
 ### Get to know me : 
 
 - 🔭 I’m currently working on getting better at life
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Python3
 - 💬 Ask me about amazing movies to watch
 - 📫 How to reach me : [**My LinkedIn**](https://www.linkedin.com/in/aditya2000)
 - 🎮 Favorite Game : Red Dead Redemption 2
