@@ -10,7 +10,7 @@
   The Marvelous Mrs. Maisel <img width="500" src="https://media.giphy.com/media/llDZ69jJuuBpB5Zblm/giphy.gif">
   Adam Sandler <img width="500" src="https://media.giphy.com/media/Xbn4I3lPUqLP5ZepV1/giphy.gif">
   -->
-   <img width="500" src="https://media.giphy.com/media/Xbn4I3lPUqLP5ZepV1/giphy.gif">
+   <img width="500" src="https://media.giphy.com/media/cE02lboc8JPO/giphy.gif">
 </p>
 
 <br>
